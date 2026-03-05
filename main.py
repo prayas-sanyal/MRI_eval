@@ -1,5 +1,5 @@
 def main():
-    print("Hello from yabplot!")
+    print("visual test 1, R to Python port")
 
 
 if __name__ == "__main__":
