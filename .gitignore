@@ -5,6 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
+_data
+processed_data/fMRI
 
 # Virtual environments
 .venv
