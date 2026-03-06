@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dicom2nifti>=2.6.2",
+    "fmriprep>=25.2.4",
     "ipykernel>=7.2.0",
     "ipywidgets>=8.1.8",
     "matplotlib>=3.10.8",
