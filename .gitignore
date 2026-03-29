@@ -1,4 +1,3 @@
-# Python-generated files
 __pycache__/
 *.py[oc]
 build/
@@ -7,6 +6,8 @@ wheels/
 *.egg-info
 _data
 processed_data/fMRI
+results/
+cache/
 
-# Virtual environments
 .venv
+.venv-tribe
